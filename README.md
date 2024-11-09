@@ -45,4 +45,5 @@ SELECT
 FROM netflix
 GROUP BY 1;
 ```
+Objective: Determine the distribution of content types on Netflix.
 
